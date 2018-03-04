@@ -27,6 +27,9 @@ public class Operators {
 
         int myScore = 34;
         if (myScore > topScore && myScore < 100)
-            System.out.println("Greater than second top score and less than 100");
+            System.out.println("Ger than second top score athan 100");
+
+        if ((topScore > 90) || (myScore <= 90))
+            System.out.println("One of these tests is true");
     }
 }
