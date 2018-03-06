@@ -48,9 +48,12 @@ public class Operators {
         double varOne = 20d;
         double varTwo = 80d;
         double varThree = (varOne + varTwo * 25);
-        //Remainder work
-        if (varThree <= 20000)
+        double theRemainder = varThree % 40;
+        System.out.println(theRemainder);
+        if (varThree <= 20)
             System.out.println("Result was over the limit");
+        else
+            System.out.println("Result was less than or equal to 20");
 
     }
 }
