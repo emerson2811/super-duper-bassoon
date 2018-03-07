@@ -27,6 +27,33 @@ public class Operators {
 
         int myScore = 34;
         if (myScore > topScore && myScore < 100)
-            System.out.println("Greater than second top score and less than 100");
+            System.out.println("Ger than second top score athan 100");
+
+        if ((topScore > 90) || (myScore <= 90))
+            System.out.println("One of these tests is true");
+
+        int newValue = 50;
+        if(newValue == 50)
+            System.out.println("This is true");
+
+        boolean isCar = false;
+        if(isCar)
+            System.out.println("This is not supposed to happen");
+
+
+        boolean wasCar = isCar ? false:true;
+        if (wasCar)
+            System.out.println("wasCar is true");
+
+        double varOne = 20d;
+        double varTwo = 80d;
+        double varThree = (varOne + varTwo * 25);
+        double theRemainder = varThree % 40;
+        System.out.println(theRemainder);
+        if (varThree <= 20)
+            System.out.println("Result was over the limit");
+        else
+            System.out.println("Result was less than or equal to 20");
+
     }
 }
