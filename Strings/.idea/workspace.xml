@@ -35,8 +35,8 @@
       <file leaf-file-name="simplemethods.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/fad/simplemethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            <state relative-caret-position="345">
+              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -73,7 +73,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="75" />
+    <option name="y" value="35" />
     <option name="width" value="1280" />
     <option name="height" value="728" />
   </component>
@@ -227,15 +227,15 @@
       <option name="presentableId" value="Default" />
       <updated>1519960669239</updated>
       <workItem from="1519960670666" duration="2159000" />
-      <workItem from="1520820961905" duration="2642000" />
+      <workItem from="1520820961905" duration="3244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7386000" />
+    <option name="totallyTimeSpent" value="7988000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="75" width="1280" height="728" extended-state="0" />
+    <frame x="0" y="35" width="1280" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -361,8 +361,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fad/simplemethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="345">
+          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
           <folding />
         </state>
       </provider>
