@@ -35,8 +35,8 @@
       <file leaf-file-name="simplemethods.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/fad/simplemethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="272">
+              <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -73,8 +73,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="35" />
-    <option name="width" value="1280" />
+    <option name="x" value="469" />
+    <option name="y" value="24" />
+    <option name="width" value="811" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectView">
@@ -227,15 +228,15 @@
       <option name="presentableId" value="Default" />
       <updated>1519960669239</updated>
       <workItem from="1519960670666" duration="2159000" />
-      <workItem from="1520820961905" duration="3244000" />
+      <workItem from="1520820961905" duration="7133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7988000" />
+    <option name="totallyTimeSpent" value="11877000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="35" width="1280" height="728" extended-state="0" />
+    <frame x="469" y="24" width="811" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -274,7 +275,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -361,8 +364,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fad/simplemethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="272">
+          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
           <folding />
         </state>
       </provider>
