@@ -5,7 +5,7 @@ public class conversions {
     public static void main(String [] args) {
         int feetToInches = (measurement(12, 5) * 12);
         calcFeetAndInchesToCentimeters(0, 5);
-
+        calcFeetAndInchesToCentimeters(563);
     }
 
 
@@ -13,8 +13,8 @@ public class conversions {
         System.out.println(feet + " feet equals " + inches + " inches!");
         return inches;
 
-        //calcFeetAndInchesToCentimeters(100);
     }
+
 
     public static double calcFeetAndInchesToCentimeters(double feet, double inches) {
 
@@ -41,6 +41,6 @@ public class conversions {
         // the percent sign "%" means 'divide by this number and return the remainder'
         double remainingInches = (int) inches % 12;
         System.out.println(inches + " inches is equal to " + feet + " feet and " + remainingInches);
-        return calcFeetAndInchesToCentimeters(feet, inches);
+        return calcFeetAndInchesToCentimeters(feet, remainingInches);
     }
 }

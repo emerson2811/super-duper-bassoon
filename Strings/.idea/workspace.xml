@@ -35,8 +35,8 @@
       <file leaf-file-name="conversions.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/fad/conversions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+            <state relative-caret-position="105">
+              <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -254,12 +254,12 @@
       <option name="presentableId" value="Default" />
       <updated>1519960669239</updated>
       <workItem from="1519960670666" duration="2159000" />
-      <workItem from="1520820961905" duration="12956000" />
+      <workItem from="1520820961905" duration="13258000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17700000" />
+    <option name="totallyTimeSpent" value="18002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="500" y="35" width="811" height="728" extended-state="0" />
@@ -406,8 +406,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/fad/conversions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="105">
+          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
           <folding />
         </state>
       </provider>
